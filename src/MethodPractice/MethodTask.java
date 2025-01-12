@@ -1,7 +1,7 @@
 package MethodPractice;
 
 public class MethodTask {
-
+    // See method call in main.java
 
     public static void greetings(String firstName, String lastName)
     {

@@ -1,6 +1,7 @@
 package Loops;
 
 public class ConditionalsLoopTask {
+    // See method call in main.java
     public static String twelveDaysOfChristmas(int day)
     {
         switch(day)
